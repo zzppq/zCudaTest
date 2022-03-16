@@ -1,1 +1,3 @@
 # zCudaTest
+
+some cuda tests 
